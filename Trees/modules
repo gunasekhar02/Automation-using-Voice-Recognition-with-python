@@ -1,0 +1,8 @@
+#modules
+Speech_recogniton
+os
+pyttsx3
+wikipedia
+timedate
+webbrowser
+smtplib
