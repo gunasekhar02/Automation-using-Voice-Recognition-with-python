@@ -1,0 +1,16 @@
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.exe
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.deps.json
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.json
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.dev.json
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.dll
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\ref\MyFirstConsole.dll
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.pdb
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csproj.AssemblyReference.cache
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfoInputs.cache
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfo.cs
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csproj.CoreCompileInputs.cache
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.dll
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\ref\MyFirstConsole.dll
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.pdb
+C:\Guna\DotNet\MyFirstConsole\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.genruntimeconfig.cache
